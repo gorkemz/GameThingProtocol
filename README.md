@@ -105,7 +105,7 @@ Create a new branch (feature/amazing-idea)
 Commit your changes
 Open a pull request
 License
-This project is open-sourced under the MIT License. Feel free to study, modify, and re-use it as you see fit!
+This project is open-sourced under the Apache License. Feel free to study, modify, and re-use it as you see fit!
 
 Let’s reshape gaming together!
 Gamething Broadcast Service is just the beginning. We believe the future of game streaming is bright, and by collaborating on cutting-edge protocols, we can deliver seamless, latency-free interactive experiences for gamers everywhere.
