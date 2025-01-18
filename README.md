@@ -44,8 +44,8 @@ A Spring Boot application context (this code fits right into a standard Spring e
 
 Installation
 Clone this repository:
-git clone https://github.com/YourUsername/GamethingBroadcastService.git
-cd GamethingBroadcastService
+git clone [https://github.com/gorkemz/GameThingProtocol](https://github.com/gorkemz/GameThingProtocol.git)
+cd GameThingProtocol
 Build (using Maven):
 
 mvn clean install
